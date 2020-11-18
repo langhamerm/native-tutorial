@@ -1,0 +1,24 @@
+{
+  "blogposts": [
+    {
+      "id": 1,
+      "title": "Test 1",
+      "content": "Contentful"
+    },
+    {
+      "title": "Helooo",
+      "content": "Zhdnfk",
+      "id": 2
+    },
+    {
+      "title": "Woot",
+      "content": "Woot",
+      "id": 3
+    },
+    {
+      "title": "Omg",
+      "content": "Omfg",
+      "id": 4
+    }
+  ]
+}

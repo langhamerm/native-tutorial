@@ -1,0 +1,1 @@
+// Screen for creating new blog posts
